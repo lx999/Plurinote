@@ -1,0 +1,25 @@
+var class_sidebar =
+[
+    [ "Sidebar", "class_sidebar.html#abc43ab5ce19757a7188c37d4ff282382", null ],
+    [ "deleteNote", "class_sidebar.html#abfa9f47c25f351ff2185fe056a40761a", null ],
+    [ "initUI", "class_sidebar.html#a68d38adbe2ee79f03470881c3d52af6e", null ],
+    [ "noteSelected", "class_sidebar.html#af08b1e0941bf9ad439b322452d3a21ae", null ],
+    [ "noteStatusChangeRequested", "class_sidebar.html#a6bbea959bc74ee09d7904af6cfa0ae5c", null ],
+    [ "restoreNote", "class_sidebar.html#a2707fa8a3253a15783cc6108e03fb832", null ],
+    [ "selectActiveNote", "class_sidebar.html#a1634b38fa2a553f078b65e0f4d28c082", null ],
+    [ "selectDeletedNote", "class_sidebar.html#aa225ddc9f012d8aeadb997176d21f8b8", null ],
+    [ "selectNote", "class_sidebar.html#aef5b8989aefd64ce9920440514f2b99c", null ],
+    [ "activeTabs", "class_sidebar.html#a73d07da7676735f70cbc16610a87b1aa", null ],
+    [ "acvListview", "class_sidebar.html#ad04b964e99601eaa38284e4ce19f0c3f", null ],
+    [ "binListview", "class_sidebar.html#ae563b3bf5597bdec354c4ac0b1741198", null ],
+    [ "btnsLayout", "class_sidebar.html#a935d82f0e4b71112a8cbfdd4e02d4b00", null ],
+    [ "buttons", "class_sidebar.html#ad0edc5a1906eed10631d0bb0290042b0", null ],
+    [ "deleteBtn", "class_sidebar.html#a44c1d53dc0e96dbda15a38f91bc36cf6", null ],
+    [ "inactiveTabs", "class_sidebar.html#ad3b4eec0ddc9f1f85a736fefe76a26d9", null ],
+    [ "layout", "class_sidebar.html#a0a12b87327494d4050004c68fabb5f39", null ],
+    [ "nm", "class_sidebar.html#afc81d6404350087ef68f05de8b7855f2", null ],
+    [ "restoreBtn", "class_sidebar.html#a1f9025642a2f087fef9511153a7bdef6", null ],
+    [ "selectedNote", "class_sidebar.html#afd34261e0b63d38c75355dedf7665a61", null ],
+    [ "stdListview", "class_sidebar.html#ae22dfa1b92e5ef4c548555773720ce10", null ],
+    [ "tskListview", "class_sidebar.html#a1d45336beb19db9f63a316a105d0aca9", null ]
+];

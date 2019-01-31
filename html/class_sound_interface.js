@@ -1,0 +1,25 @@
+var class_sound_interface =
+[
+    [ "SoundInterface", "class_sound_interface.html#a5d944d9d36873b269c4724697be949d2", null ],
+    [ "openSound", "class_sound_interface.html#a49b24b8d854428de407597964c94d5df", null ],
+    [ "playMusic", "class_sound_interface.html#ae3b573528c4207146fa2f0c1f3459af4", null ],
+    [ "setNameFileSound", "class_sound_interface.html#aa31d5705fb3321f4d92095601097bea3", null ],
+    [ "setReadOnly", "class_sound_interface.html#a3b2ab72a954448c0795d19bb3c750877", null ],
+    [ "stopMusic", "class_sound_interface.html#a1ac8625cd8a3819fdfb23738e05732b9", null ],
+    [ "toNote", "class_sound_interface.html#a264bc66cf461ee07c98df4c238f33259", null ],
+    [ "bAddSound", "class_sound_interface.html#a4706c9e1ddfc32c2c2994c49931639e5", null ],
+    [ "boutonLayout", "class_sound_interface.html#ac8fb79ac29e68f6d86f5498504b93fae", null ],
+    [ "boutonLayout2", "class_sound_interface.html#a6cd2caf152eaa2e9148caf35a22b0d49", null ],
+    [ "bPlayMusic", "class_sound_interface.html#a6e2b7676d35e498661fbe63ad3f2c88f", null ],
+    [ "bStopMusic", "class_sound_interface.html#a58fb090b40c6641e6f729cfa0db6c380", null ],
+    [ "descriptionEdit", "class_sound_interface.html#acba09863bcc0da0669029614bd3f4df2", null ],
+    [ "idEdit", "class_sound_interface.html#a2b99163de9b5e51c802126ca0c9441e0", null ],
+    [ "initSound", "class_sound_interface.html#a98155acac4e3207f6699a2939c696fea", null ],
+    [ "labelSound", "class_sound_interface.html#a9860648cc45b960d7a28deb9fa8eb1c1", null ],
+    [ "layout", "class_sound_interface.html#a2fb1d533472092e51539b85ddeaa4c4d", null ],
+    [ "mainLayout", "class_sound_interface.html#ae975f57ce11dd08c2d7f56468582dda1", null ],
+    [ "nameFileSound", "class_sound_interface.html#a40cf44c19972889c345fc1a732c6a3c6", null ],
+    [ "sound", "class_sound_interface.html#a455c64ecec6a3d0419cbf7a2f50155d9", null ],
+    [ "soundToRegister", "class_sound_interface.html#a2002868b4801aa26cbaf22145e30bef7", null ],
+    [ "titleEdit", "class_sound_interface.html#a2b80f9b8f1240631a315b76c0b7f6e02", null ]
+];

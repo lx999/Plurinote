@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="article">resources/icons/article.png</file>
+        <file alias="image">resources/icons/picture.png</file>
+        <file alias="sound">resources/icons/sound.png</file>
+        <file alias="task">resources/icons/task.png</file>
+        <file alias="video">resources/icons/video.png</file>
+        <file alias="corbeille">resources/icons/corbeille.png</file>
+        <file alias="vide">resources/icons/vide.png</file>
+        <file alias="archive">resources/icons/archive.png</file>
+        <file alias="restore">resources/icons/restore.png</file>
+        <file alias="clean">resources/icons/clean.png</file>
+        <file alias="unidirectionnal">resources/icons/unidirectionnal.png</file>
+        <file alias="bidirectionnal">resources/icons/bidirectionnal.png</file>
+        <file alias="priority-high">resources/icons/high-priority.png</file>
+        <file alias="priority-low">resources/icons/low-priority.png</file>
+        <file alias="priority-medium">resources/icons/medium-priority.png</file>
+    </qresource>
+</RCC>
